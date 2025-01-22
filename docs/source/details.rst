@@ -321,6 +321,14 @@ STEP 9: `tml_system_step_9_privategpt_qdrant_dag <https://tml.readthedocs.io/en/
      - --pgptport--
    * - hyperbatch
      - --hyperbatch--
+   * - docfolder
+     - --docfolder--
+   * - docfolderingestinterval
+     - --docfolderingestinterval--
+   * - useidentifierinprompt
+     - --useidentifierinprompt--
+   * - searchterms
+     - --searchterms--
 
 STEP 10: `tml_system_step_10_documentation_dag <https://tml.readthedocs.io/en/latest/tmlbuilds.html#step-10-create-tml-solution-documentation-tml-system-step-10-documentation-dag>`_
 ^^^^^^^^^^^^^^^^^^^^^
