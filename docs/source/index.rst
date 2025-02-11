@@ -3,6 +3,8 @@ Welcome to Transactional Machine Learning (TML) Solution: [--solutionname--] Doc
 
 Generated On: --datetime-- UTC
 
+Project Name: --projectname--
+
 --solutiontitle--
 -----------------------
 
