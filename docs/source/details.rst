@@ -87,6 +87,14 @@ STEP 3: `Produce to Kafka Topics <https://tml.readthedocs.io/en/latest/tmlbuilds
      - --TSSCLIENTPORT--
    * - TML_CLIENTPORT
      - --TMLCLIENTPORT--
+   * - docfolder
+     - --docfolderprocess--
+   * - doctopic
+     - --doctopic--
+   * - chunks
+     - --chunks--
+   * - docingestinterval
+     - --docingestinterval--
 
 STEP 4: Preprocesing Data: `tml-system-step-4-kafka-preprocess-dag <https://tml.readthedocs.io/en/latest/tmlbuilds.html#step-4-preprocesing-data-tml-system-step-4-kafka-preprocess-dag>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
