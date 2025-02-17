@@ -147,6 +147,8 @@ STEP 4b: Preprocesing Data: `tml-system-step-4b-kafka-preprocess-dag <https://tm
      - --preprocessconditions2--
    * - delay
      - --delay2--
+   * - maxrows
+     - --maxrows2--
    * - array
      - --array2--
    * - saveasarray
@@ -180,11 +182,13 @@ STEP 4c: Preprocesing Data: `tml-system-step-4c-kafka-preprocess-dag <https://tm
    * - preprocess_data_topic
      - --preprocess_data_topic3--
    * - delay
-     - --delay2--
+     - --delay3--
+   * - maxrows
+     - --maxrows3--
    * - array
-     - --array2--
+     - --array3--
    * - saveasarray
-     - --saveasarray2--
+     - --saveasarray3--
    * - topicid
      - --topicid3--
    * - rawdataoutput
