@@ -111,6 +111,8 @@ STEP 4: Preprocesing Data: `tml-system-step-4-kafka-preprocess-dag <https://tml.
      - --preprocessconditions--
    * - delay
      - --delay--
+   * - maxrows
+     - --maxrows--
    * - array
      - --array--
    * - saveasarray
