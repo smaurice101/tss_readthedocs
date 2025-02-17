@@ -134,7 +134,7 @@ STEP 4: Preprocesing Data: `tml-system-step-4-kafka-preprocess-dag <https://tml.
    * - jsoncriteria
      - --jsoncriteria--
 
-STEP 4b: Preprocesing Data: `tml-system-step-4b-kafka-preprocess-dag <https://tml.readthedocs.io/en/latest/tmlbuilds.html#step-4b-preprocesing-data-tml-system-step-4b-kafka-preprocess-dag>`_
+STEP 4b: Preprocesing Data: `tml-system-step-4b-kafka-preprocess-dag <https://tml.readthedocs.io/en/latest/tmlbuilds.html#step-4b-preprocesing-2-data-tml-system-step-4b-kafka-preprocess-dag>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table::
@@ -172,7 +172,7 @@ STEP 4b: Preprocesing Data: `tml-system-step-4b-kafka-preprocess-dag <https://tm
    * - jsoncriteria
      - --jsoncriteria2--
 
-STEP 4c: Preprocesing Data: `tml-system-step-4c-kafka-preprocess-dag <https://tml.readthedocs.io/en/latest/tmlbuilds.html#step-4c-preprocesing-data-tml-system-step-4c-kafka-preprocess-dag>`_
+STEP 4c: Preprocesing Data: `tml-system-step-4c-kafka-preprocess-dag <https://tml.readthedocs.io/en/latest/tmlbuilds.html#step-4c-preprocesing-3-data-tml-system-step-4c-kafka-preprocess-dag>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table::
