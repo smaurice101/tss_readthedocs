@@ -168,6 +168,42 @@ STEP 4b: Preprocesing Data: `tml-system-step-4b-kafka-preprocess-dag <https://tm
    * - jsoncriteria
      - --jsoncriteria2--
 
+STEP 4c: Preprocesing Data: `tml-system-step-4c-kafka-preprocess-dag <https://tml.readthedocs.io/en/latest/tmlbuilds.html#step-4c-preprocesing-data-tml-system-step-4c-kafka-preprocess-dag>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table::
+
+   * - **User Parameter**
+     - **Chosen Value**
+   * - raw_data_topic
+     - --raw_data_topic3--
+   * - preprocess_data_topic
+     - --preprocess_data_topic3--
+   * - delay
+     - --delay2--
+   * - array
+     - --array2--
+   * - saveasarray
+     - --saveasarray2--
+   * - topicid
+     - --topicid3--
+   * - rawdataoutput
+     - --rawdataoutput3--
+   * - asynctimeout
+     - --asynctimeout3--
+   * - timedelay
+     - --timedelay3--
+   * - searchterms
+     - --searchterms--
+   * - rtmsstream
+     - --rtmsstream--
+   * - identifier
+     - --identifier3--
+   * - rememberpastwindows
+     - --rememberpastwindows--
+   * - patternscorethreshold
+     - --patternscorethreshold--
+
 STEP 5: Entity Based Machine Learning : `tml-system-step-5-kafka-machine-learning-dag <https://tml.readthedocs.io/en/latest/tmlbuilds.html#step-5-entity-based-machine-learning-tml-system-step-5-kafka-machine-learning-dag>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
