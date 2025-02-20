@@ -200,7 +200,7 @@ STEP 4c: Preprocesing Data: `tml-system-step-4c-kafka-preprocess-dag <https://tm
    * - timedelay
      - --timedelay3--
    * - searchterms
-     - --searchterms--
+     - --rtmssearchterms--
    * - rtmsstream
      - --rtmsstream--
    * - identifier
