@@ -210,7 +210,7 @@ STEP 4c: Preprocesing Data: `tml-system-step-4c-kafka-preprocess-dag  <--step4cu
    * - patternscorethreshold
      - --patternscorethreshold--
    * - RTMS Output Github Link
-     - --rtmsoutputurl--
+     - `Output Data URL <--rtmsoutputurl-->`_
 
 STEP 5: Entity Based Machine Learning : `tml-system-step-5-kafka-machine-learning-dag <--step5url-->`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -256,7 +256,7 @@ STEP 5: Entity Based Machine Learning : `tml-system-step-5-kafka-machine-learnin
    * - coefsubtopicnames
      - --coefsubtopicnames--
    * - ML Output Github Link
-     - --mloutputurl--
+     - `Output Data URL <--mloutputurl-->`_
 
 STEP 6: Entity Based Predictions: `tml-system-step-6-kafka-predictions-dag <--step6url-->`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
