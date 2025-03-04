@@ -209,6 +209,10 @@ STEP 4c: Preprocesing Data: `tml-system-step-4c-kafka-preprocess-dag  <--step4cu
      - --rememberpastwindows--
    * - patternscorethreshold
      - --patternscorethreshold--
+   * - localsearchtermfolder
+     - --localsearchtermfolder--
+   * - localsearchtermfolderinterval
+     - --localsearchtermfolderinterval--
    * - RTMS Output Github Link
      - `Output Data URL <--rtmsoutputurl-->`_
 
