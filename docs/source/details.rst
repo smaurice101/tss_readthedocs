@@ -207,8 +207,8 @@ STEP 4c: Preprocesing Data: `tml-system-step-4c-kafka-preprocess-dag  <--step4cu
      - --identifier3--
    * - rememberpastwindows
      - --rememberpastwindows--
-   * - patternscorethreshold
-     - --patternscorethreshold--
+   * - patternwindowthreshold
+     - --patternwindowthreshold--
    * - localsearchtermfolder
      - --localsearchtermfolder--
    * - localsearchtermfolderinterval
