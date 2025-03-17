@@ -182,7 +182,8 @@ This is the Docker Run command for your solution container.  Note ports may chan
 Your Solution Docker Run Command: Parameter Explanation
 ^^^^^^^^^^^^^^^^^^^^^^
 
---dockerinstructions--
+.. important::
+   --dockerinstructions--
 
 .. list-table::
 
