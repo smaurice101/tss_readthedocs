@@ -174,6 +174,11 @@ This is the Docker Run command for your solution container.  Note ports may chan
 
    --dockerrun--
 
+.. tip::
+   You can use DEMO credentials for testing and quickly seeing the power of TSS and TML.  
+
+   The demo credentials can be found here: `Demo Credentials <https://tml.readthedocs.io/en/latest/docker.html#tss-demo-github-docker-and-readthedocs-site-credentials>`_
+
 Your Solution Docker Run Command: Parameter Explanation
 ^^^^^^^^^^^^^^^^^^^^^^
 
