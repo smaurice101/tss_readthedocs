@@ -225,6 +225,8 @@ STEP 4c: Preprocesing Data: `tml-system-step-4c-kafka-preprocess-dag  <--step4cu
      - --patternscorethreshold--
    * - patternscorethresholdtopic
      - --patternscorethresholdtopic--
+   * - rtmsfoldername
+     - --rtmsfoldername--
    * - RTMS Output Github Link
      - `Output Data URL <--rtmsoutputurl-->`_
 
