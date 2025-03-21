@@ -69,6 +69,8 @@ STEP 3: `Produce to Kafka Topics <--step3url-->`_
      - **Chosen Value**
    * - PRODUCETYPE
      - --PRODUCETYPE--
+   * - inputfile
+     - --inputfile--
    * - TOPIC
      - --TOPIC--
    * - PORT
