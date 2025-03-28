@@ -419,6 +419,8 @@ STEP 9: `tml_system_step_9_privategpt_qdrant_dag <--step9url-->`_
      - --vectorsize--
    * - contextwindowsize
      - --contextwindowsize--
+   * - vectordimension
+     - --vectordimension--
 
 STEP 10: `tml_system_step_10_documentation_dag <--step10url-->`_
 ^^^^^^^^^^^^^^^^^^^^^
