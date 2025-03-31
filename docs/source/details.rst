@@ -136,6 +136,44 @@ STEP 4: Preprocesing Data: `tml-system-step-4-kafka-preprocess-dag <--step4url--
    * - jsoncriteria
      - --jsoncriteria--
 
+STEP 4a: Preprocesing Data: `tml-system-step-4-kafka-preprocess-dag <--step4url-->`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. list-table::
+
+   * - **User Parameter**
+     - **Chosen Value**
+   * - raw_data_topic
+     - --raw_data_topic1--
+   * - preprocess_data_topic
+     - --preprocess_data_topic1--
+   * - preprocessconditions
+     - --preprocessconditions1--
+   * - delay
+     - --delay1--
+   * - maxrows
+     - --maxrows1--
+   * - array
+     - --array1--
+   * - saveasarray
+     - --saveasarray1--
+   * - topicid
+     - --topicid1--
+   * - rawdataoutput
+     - --rawdataoutput1--
+   * - asynctimeout
+     - --asynctimeout1--
+   * - timedelay
+     - --timedelay1--
+   * - preprocesstypes
+     - --preprocesstypes1--
+   * - pathtotmlattrs
+     - --pathtotmlattrs1--
+   * - identifier
+     - --identifier1--
+   * - jsoncriteria
+     - --jsoncriteria1--
+
 STEP 4b: Preprocesing Data: `tml-system-step-4b-kafka-preprocess-dag <--step4burl-->`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
