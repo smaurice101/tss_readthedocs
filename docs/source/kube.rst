@@ -336,22 +336,36 @@ privategpt.yml
           spec:
             containers:
             - name: privategpt
-              image: maadsdocker/tml-privategpt-with-gpu-nvidia-amd64 # IF you DO NOT have NVIDIA GPU use: maadsdocker/tml-privategpt-no-gpu-amd64
+              image: --kubeprivategpt-- # IF you DO NOT have NVIDIA GPU use: maadsdocker/tml-privategpt-no-gpu-amd64
               env:
               - name: NVIDIA_VISIBLE_DEVICES
                 value: all
               - name: DP_DISABLE_HEALTHCHECKS
                 value: xids
               - name: WEB_CONCURRENCY
-                value: "3"
+                value: "--kubeconcur--"
               - name: GPU
                 value: "1"
               - name: COLLECTION
-                value: "tml"
+                value: "--kubecollection--"
               - name: PORT
                 value: "8001"
               - name: CUDA_VISIBLE_DEVICES
                 value: "0"
+              - name: TOKENIZERS_PARALLELISM
+                value: "false"
+              - name: temperature
+                value: "--kubetemperature--"
+              - name: vectorsearchtype
+                value: "--kubevectorsearchtype--"
+              - name: contextwindowsize
+                value: "--kubecontextwindowsize--"
+              - name: vectordimension
+                value: "--kubevectordimension--"
+              - name: mainmodel
+                value: "--kubemainmodel--"
+              - name: mainembedding
+                value: "--kubemainembedding--"
               - name: TSS
                 value: "0"
               - name: KUBE
