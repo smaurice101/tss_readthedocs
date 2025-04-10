@@ -337,6 +337,7 @@ privategpt.yml
             containers:
             - name: privategpt
               image: --kubeprivategpt-- # IF you DO NOT have NVIDIA GPU use: maadsdocker/tml-privategpt-no-gpu-amd64
+              imagePullPolicy: IfNotPresent  # You can also use Always, Never
               env:
               - name: NVIDIA_VISIBLE_DEVICES
                 value: all
