@@ -462,6 +462,57 @@ STEP 9: `tml_system_step_9_privategpt_qdrant_dag <--step9url-->`_
    * - mitrejson
      - --mitrejson--
 
+STEP 9b: `tml_system_step_9b_agenticai_dag <--step9burl-->`_
+^^^^^^^^^^^^^^^^^^^^^
+.. list-table::
+
+   * - **User Parameter**
+     - **Chosen Value**
+   * - rollbackoffset
+     - --agenticai-rollbackoffset--
+   * - ollama-model
+     - --agenticai-ollama-model--
+   * - deletevectordbcount
+     - --agenticai-deletevectordbcount--
+   * - vectordbpath
+     - --agenticai-vectordbpath--
+   * - temperature
+     - --agenticai-temperature--
+   * - topicid
+     - --agenticai-topicid--
+   * - enabletls
+     - --agenticai-enabletls--
+   * - partition
+     - --agenticai-partition--
+   * - vectordbcollectionname
+     - --agenticai-vectordbcollectionname--
+   * - ollamacontainername
+     - --agenticai-ollamacontainername--
+   * - mainip
+     - --agenticai-mainip--
+   * - mainport
+     - --agenticai-mainport--
+   * - embedding
+     - --agenticai-embedding--
+   * - agents_topic_prompt
+     - --agenticai-agents_topic_prompt--
+   * - teamlead_topic
+     - --agenticai-teamlead_topic--
+   * - teamleadprompt
+     - --agenticai-teamleadprompt--
+   * - supervisor_topic
+     - --agenticai-supervisor_topic--
+   * - supervisorprompt
+     - --agenticai-supervisorprompt--
+   * - agenttoolfunctions
+     - --agenticai-agenttoolfunctions--
+   * - agent_team_supervisor_topic
+     - --agenticai-agent_team_supervisor_topic--
+   * - concurrency
+     - --agenticai-concurrency--
+   * - CUDA_VISIBLE_DEVICES
+     - --agenticai-cuda--
+
 STEP 10: `tml_system_step_10_documentation_dag <--step10url-->`_
 ^^^^^^^^^^^^^^^^^^^^^
 .. list-table::
