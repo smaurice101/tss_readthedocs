@@ -494,6 +494,8 @@ STEP 9b: `tml_system_step_9b_agenticai_dag <--step9burl-->`_
      - --agenticai-mainport--
    * - embedding
      - --agenticai-embedding--
+   * - agenttopic
+     - --agenticai-agenttopic--
    * - agents_topic_prompt
      - --agenticai-agents_topic_prompt--
    * - teamlead_topic
