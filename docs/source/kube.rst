@@ -102,6 +102,8 @@ kubectl Apply command
 .. important::
    Copy and Paste this YAML file: --solutionnamefile-- - and save it locally.
 
+   These YML files can also be found on GitHub at: --gityml--
+
 .. attention::
 
    MAKE SURE to update any tokens and passwords in the **secrets.yml** file:
