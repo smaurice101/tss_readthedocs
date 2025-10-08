@@ -516,6 +516,10 @@ STEP 9b: `tml_system_step_9b_agenticai_dag <--step9burl-->`_
      - --agenticai-cuda--
    * - contextwindow
      - --agenticai-contextwindow--
+   * - agenttopic
+     - --agenticai-agenttopic--
+   * - localmodelsfolder
+     - --agenticai-localmodelsfolder--
 
 STEP 10: `tml_system_step_10_documentation_dag <--step10url-->`_
 ^^^^^^^^^^^^^^^^^^^^^
